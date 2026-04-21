@@ -2,6 +2,11 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+
+## Templates 
+https://www.figma.com/design/yfU4HTWVERKVkKnMs8Hojj/PodOfCast?node-id=301-33&t=ZPmzl7wUEw4EdVSu-0
+
+
 ## Setup
 
 Make sure to install dependencies:
