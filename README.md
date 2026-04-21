@@ -1,4 +1,5 @@
-# Nuxt Minimal Starter
+# Nuxt project web-podcast
+
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
