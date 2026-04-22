@@ -10,8 +10,12 @@ https://www.figma.com/design/yfU4HTWVERKVkKnMs8Hojj/PodOfCast?node-id=301-33&t=Z
 
 ## Setup
 
-Make sure to install dependencies:
 
+## Templates
+
+
+Make sure to install dependencies:
+https://www.figma.com/design/yfU4HTWVERKVkKnMs8Hojj/PodOfCast?node-id=301-33&t=ZPmzl7wUEw4EdVSu-0
 ```bash
 # npm
 npm install
@@ -79,3 +83,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
