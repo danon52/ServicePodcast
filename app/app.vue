@@ -6,7 +6,7 @@
     <div >
       <NuxtPage />
       <div>
-        <ComHeader class="isolation: isolate"/>
+        <ComHeader/>
       </div>
     </div>
     <main> 
@@ -33,6 +33,13 @@
         
       
     </main>
+
+    
+
+
+    
+        <CompSlider/>
+    
     
   </div>
 </template>
