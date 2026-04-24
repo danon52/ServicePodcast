@@ -4,7 +4,6 @@
 
   <div class=" font-[] bg-[#F7EDE8]">
     <div >
-      
       <NuxtPage />
       <div>
         <ComHeader class="isolation: isolate"/>
