@@ -1,8 +1,7 @@
 
 
 <template >
-
-  <div class=" font-[] bg-[#F7EDE8]">
+  <div class=" font-sans bg-[#F7EDE8]">
     <div >
       <NuxtPage />
       <div>
@@ -23,7 +22,6 @@
               We cover all kinds of categories and <br> 
                 a weekly special guest.
             </p>
-            
           </div>
         </div>
   <img src="/Group48095792.svg" alt="">
@@ -39,7 +37,14 @@
 
     
         <CompSlider/>
-    
-    
+      <div class="flex justify-center">
+        <img src="/Scribble.svg" alt="">
+      </div>
+
+  </div>
+
+
+  <div class="mt-60">
+    <p>adfada</p>
   </div>
 </template>
