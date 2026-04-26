@@ -14,7 +14,7 @@
     <img src="/HeroShapeSwirl.svg" alt="">
         <div class="text-center mr-40 mt-40">
           <p class="text-9xl text-black">Your Daily</p>
-          <div class="absolute bottom-[26rem]">
+          <div class="absolute bottom-[45rem]">
             <button  class= " ml-[250px] mask-top w-[184px] h-[65px] bg-black text-white text-2xl rounded-xl shadow-2xl " >SUBSCRIBE</button>
           </div>
           <p class="text-9xl text-[#CD4631]">Podcast</p>
